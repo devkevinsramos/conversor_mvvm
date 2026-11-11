@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Câmbio",
+    "slug": "cambio-kevin-silva",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "edgeToEdgeEnabled": true,
+      "softwareKeyboardLayoutMode": "resize"
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
